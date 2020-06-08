@@ -1,2 +1,2 @@
-# retos-de-programacion
+# Programación
 Problemas tipo olimpiadas de programación. 
